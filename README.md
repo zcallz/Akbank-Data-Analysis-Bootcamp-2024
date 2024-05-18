@@ -18,7 +18,7 @@ Key Findings:
 - Students with parents who have higher levels of education tend to have higher exam scores.
 - Demographic factors such as gender and race/ethnicity are also examined for their influence on exam performance.
 
-- Data Analysis
+  Data Analysis
 
 Correlation Analysis: One of the fundamental techniques in data analysis is correlation analysis. It allows us to understand the relationship between different variables in our dataset. This insight aids in identifying patterns, dependencies, and potential causal relationships within the data.
 
